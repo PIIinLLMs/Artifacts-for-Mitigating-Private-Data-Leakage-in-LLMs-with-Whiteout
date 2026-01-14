@@ -23,7 +23,7 @@ For training, install LLaMA-Factory:
 ```
 git clone https://github.com/hiyouga/LLaMA-Factory.git
 ```
-
+**Note:** LLaMA-Factory is a standard open-source library used for fine-tuning LLMs. We have no affiliation with LLaMA-Factory.
 
 ## Running Whiteout
 ### 1. Generate Whiteout Camouflage Samples
